@@ -4,7 +4,7 @@
 
 🚨 🚧 This is a Work In Progress (WIP) project...
 
-Let the Nabaztag 🐰 read us a story 📖.
+Let your Nabaztag 🐰 read you a story 📖.
 
 # Goal
 
