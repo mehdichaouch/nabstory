@@ -2,7 +2,7 @@
 
 # NabStory (Nabaztag Story)
 
-[![Join the chat at https://gitter.im/mehdichaouch/nabstory](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mehdichaouch/nabstory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/mehdichaouch/nabstory](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mehdichaouch/nabstory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Join the chat at https://gitter.im/nabstory/community](https://badges.gitter.im/nabstory/community.svg)](https://gitter.im/nabstory/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 🚨 🚧 This is a Work In Progress (WIP) project...
