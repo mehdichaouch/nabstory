@@ -2,6 +2,9 @@
 
 # NabStory (Nabaztag Story)
 
+[![Join the chat at https://gitter.im/mehdichaouch/nabstory](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mehdichaouch/nabstory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 🚨 🚧 This is a Work In Progress (WIP) project...
 
 Let your Nabaztag 🐰 read you a story 📖.
